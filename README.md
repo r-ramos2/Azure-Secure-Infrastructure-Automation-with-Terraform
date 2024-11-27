@@ -1,4 +1,4 @@
-# ** Azure Secure Infrastructure Automation with Terraform**
+# Azure Secure Infrastructure Automation with Terraform
 
 ## **Table of Contents**
 
